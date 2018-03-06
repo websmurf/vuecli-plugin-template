@@ -1,4 +1,4 @@
-# vuecli-plugin-setup
+# vuecli-plugin-template
 
 vue-cli template for a vue plugin with support for
 - es2015 (babel)
